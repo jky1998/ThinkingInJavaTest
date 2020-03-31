@@ -5,7 +5,7 @@ package chapter4.practise;
  * @author harley
  * date 2020/03/21
  */
-public class practise1 {
+public class Practise1 {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {

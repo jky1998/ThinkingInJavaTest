@@ -8,7 +8,7 @@ package chapter4.practise;
  * @author harley
  * date 2020/03/30
  */
-public class practise9 {
+public class Practise9 {
     public static int fibonacci(int data) {
         if (data == 1 || data == 2) {
             return 1;

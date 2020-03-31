@@ -6,7 +6,7 @@ package chapter4.practise;
  * @author harley
  * date 2020/03/26
  */
-public class practise6 {
+public class Practise6 {
     public static int test(int testval, int begin, int end) {
         if (testval >= begin && testval <= end) {
             return 1;

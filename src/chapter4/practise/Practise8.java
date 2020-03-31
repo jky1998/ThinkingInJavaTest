@@ -10,7 +10,7 @@ import java.util.TimerTask;
  * @author harley
  * date 2020/03/27
  */
-public class practise8 {
+public class Practise8 {
     public static void switchTest(int i) {
         switch (i) {
             case 1 :

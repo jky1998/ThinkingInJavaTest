@@ -7,7 +7,7 @@ package chapter3.practises;
  * @author harley
  * date 2020/03/20
  */
-public class practise14 {
+public class Practise14 {
     public static void compare(String a, String b) {
         System.out.println(a + " == " + b + ": " + (a == b));
         System.out.println(a + " != " + b + ": " + (a != b));

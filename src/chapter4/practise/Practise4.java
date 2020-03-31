@@ -6,7 +6,7 @@ package chapter4.practise;
  * @author harley
  * date 2020/03/21
  */
-public class practise4 {
+public class Practise4 {
     public static void main(String[] args) {
         boolean flag = false;
         for (int i = 2; i < 100; i++) {

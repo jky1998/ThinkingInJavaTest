@@ -6,7 +6,7 @@ package chapter4.practise;
  * @author harley
  * date 2020/03/21
  */
-public class practise2 {
+public class Practise2 {
     public static int[] random(int num) {
         int[] arr = new int[num];
         for (int i = 0; i < num; i++) {

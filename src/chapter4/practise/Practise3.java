@@ -8,7 +8,7 @@ import java.util.Random;
  * @author harley
  * date 2020/03/21
  */
-public class practise3 {
+public class Practise3 {
     public static void compare(){
         Random r = new Random();
         int a = r.nextInt(20);

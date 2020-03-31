@@ -8,7 +8,7 @@ package chapter3.practises;
  * date 2020/03/18
  */
 
-public class practise13 {
+public class Practise13 {
     // 将十进制转换位二进制的方法
     public static int transform(int  a )
     {

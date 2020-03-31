@@ -8,7 +8,7 @@ package chapter3.practises;
  * @author harley
  * date 2020/03/18
  */
-public class practise12 {
+public class Practise12 {
     public static void main(String[] args) {
         int a = 0b111111;
         System.out.println(Integer.toBinaryString(a));

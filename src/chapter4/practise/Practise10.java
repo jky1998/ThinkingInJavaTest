@@ -9,7 +9,7 @@ package chapter4.practise;
  * @author harley
  * date 2020/03/30
  */
-public class practise10 {
+public class Practise10 {
     /**
      * 思路：1、获取四位数的每一位
      *      2、将获取的四位数排列组合，相乘判断是否符合

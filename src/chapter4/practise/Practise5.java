@@ -5,7 +5,7 @@ package chapter4.practise;
  * @author harley
  * date 2020/02/23
  */
-public class practise5 {
+public class Practise5 {
     static final int INT_HIGH_BIT = 1 << 31;
     public static String toBinaryString(int i) {
 //        char buffer[] = new char[32];
